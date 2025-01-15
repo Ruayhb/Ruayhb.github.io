@@ -58,5 +58,5 @@ czn：抽象程度较高，敢于直言，较为极端，陈氏坤拳的缔造�
 
 qhm：著名南通，热爱与 lyt,zzx4 等人第五人格。喜欢熬夜，除此之外比较正常。
 
-![image](https://github.com/user-attachments/assets/4450ed43-7a74-41e7-a32e-951571fc071c)
+唔先咕一会，喵喵喵
 
