@@ -7,7 +7,7 @@
 
 #### [鸡森文学](https://ssfz202601.github.io/culture/literature)
 
-#### [鸡森音乐学](https://ssfz202601.github.io/404)
+#### [鸡森音乐学](https://ssfz202601.github.io/culture/music)
 
 #### [鸡森数学](https://ssfz202601.github.io/404)
 
