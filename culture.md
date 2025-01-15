@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/4d791bab-9ec7-4775-9f87-fdc9b40984a8)
 
 
-#### [鸡森文学](https://ssfz202601.github.io/404)
+#### [鸡森文学](https://ssfz202601.github.io/culture/literature)
 
 #### [鸡森音乐学](https://ssfz202601.github.io/404)
 
