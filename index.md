@@ -12,5 +12,5 @@
 
 #### [成员一览](https://ssfz202601.github.io/members)
 
-#### [班级文化](https://ssfz202601.github.io/works)
+#### [班级文化](https://ssfz202601.github.io/culture)
 
