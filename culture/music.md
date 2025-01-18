@@ -87,7 +87,15 @@ SKY 专辑，全称为 sky^-x 系列曲目，是由 [SJH_qwq](https://www.luogu.
 
 #### Land 系列一览表
 
-等待 lbz 给我一个带有全连接的表格，我连洛谷链接都没有。
+以下“作者”一栏中，LBZ 简称 Z，SJH 简称 S。
+
+| 曲名 | 作者 |
+| -----------: | -----------: |
+|[LAND01 Summer Leaf](https://www.luogu.com.cn/problem/U431209)  |Z  |
+| [LAND02 History](https://www.luogu.com.cn/problem/U449323) | Z |
+| [LAND03 The 14th Birthday of SJH](https://www.luogu.com.cn/problem/U500038) | Z |
+| [LAND0345926 Π](https://www.luogu.com.cn/problem/U513208) | S |
+|[LAND04 Kaedehara Kazuha](https://www.luogu.com.cn/problem/U511112)  |Z  |
 
 #### 品德系列一览表
 
