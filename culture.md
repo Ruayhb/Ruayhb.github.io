@@ -9,7 +9,7 @@
 
 #### [鸡森音乐学](https://ssfz202601.github.io/culture/music)
 
-#### [鸡森数学](https://ssfz202601.github.io/math)
+#### [鸡森数学](https://ssfz202601.github.io/culture/math)
 
 #### [鸡森社会学](https://ssfz202601.github.io/404)
 
