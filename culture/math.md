@@ -18,8 +18,17 @@
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/b6fdn10g.png)
 
-因此，我们把经典数学中未定义的数字 1/0 称作汪子荇数，写作 w，读作“汪”。相应的，数字 k/0 称作 kw。而数字 0/0 写作 0w，读作刘旭。
+因此，我们把经典数学中未定义的数字 1/0 称作汪子荇数，写作 w，读作“waang”。相应的，数字 k/0 称作 kw。而数字 0/0 写作 0w，读作刘旭。
+
+这样我们就有了数系的第一次扩充，用 W 代表全体汪子荇数所构成的集合，称作汪集；用 J 代表全体可以表示为 aw+b 或 b 的数字（其中 a,b 均为复数）的集合，称为骁集。
+
+著名的鸡森数学家 lbz（亦称牢政）推出了 wzx 数的运算法则，写成了 [wzx 数教程](https://www.luogu.com/article/eby1xlv0)，读者可以自行阅读。这里放上结论：
+
+![](https://cdn.luogu.com.cn/upload/image_hosting/eonnqz4d.png)
+
+但是后来 lbz 证明了汪子荇数体系的纰漏，因此汪子荇数体系后来慢慢从公众的视野中消失了。
 
 ## 四、参考资料
 
 [肥硕定理·引理](https://www.luogu.com.cn/paste/caq6otdq)
+[wzx 数教程](https://www.luogu.com/article/eby1xlv0)
