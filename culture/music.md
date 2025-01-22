@@ -40,6 +40,10 @@ SKY 专辑，全称为 sky^-x 系列曲目，是由 [SJH_qwq](https://www.luogu.
 
 2024.7：新增制作人 [Double_Light](https://www.luogu.com.cn/user/761137)，以下简称 F。
 
+2025.1：新增制作人 [Priestess_SLG](https://www.luogu.com.cn/user/1254235)（注意：此账号目前为多人公有），以下简称 Y。
+
+2025.1：新增制作人 [abdq1011_qhm](https://www.luogu.com.cn/user/1263859)，以下简称 Q。
+
 | 曲目编号及名称 | 作者 | 创作时间 |
 | :----------: | :----------: | :----------: |
 | [SKY01 逆天(重置版)](https://www.luogu.com.cn/problem/U321043) | S | 2023.8或更早 |
