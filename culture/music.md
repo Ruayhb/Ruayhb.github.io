@@ -40,46 +40,46 @@ SKY 专辑，全称为 sky^-x 系列曲目，是由 [SJH_qwq](https://www.luogu.
 
 2024.7：新增制作人 [Double_Light](https://www.luogu.com.cn/user/761137)，以下简称 F。
 
-|                        曲目编号及名称                        |  作者  |   创作时间   |
-| :----------------------------------------------------------: | :----: | :----------: |
-| [SKY01 逆天(重置版)](https://www.luogu.com.cn/problem/U321043) |   S    | 2023.8或更早 |
-| [SKY012 ttq012的主题曲](https://www.luogu.com.cn/problem/U429283) |   Z    |    2024.5    |
-|                         SKY02 已删除                         |   Z    |    2024.1    |
-| [SKY03 周年纪念曲（CXcore Mix）](https://www.luogu.com.cn/problem/U409395) |   S    |    2024.2    |
-|                         SKY04 已删除                         |   Z    |    2024.2    |
-| [SKY05 Sky Dream](https://www.luogu.com.cn/problem/U417649)  |   S    |    2024.3    |
-| [SKY06 长江之歌arrange](https://www.luogu.com.cn/problem/U416106) |   Z    |    2024.3    |
-| [SKY07 Turn Dreams（转动梦想）](https://www.luogu.com.cn/problem/U477503) |   S    |    2024.9    |
-| [SKY08 碧湖夜行 ～ Lake Night](https://www.luogu.com.cn/problem/U419781) |   Z    |    2024.4    |
-| [SKY09 繁花烟雨~Flowers and Rain~（CXcore Mix）](https://www.luogu.com.cn/problem/U425357) |   S    |    2024.4    |
-|  [SKY10 春夏之接](https://www.luogu.com.cn/problem/U424381)  |   Z    |    2024.4    |
-|    [SKY11 地理](https://www.luogu.com.cn/problem/U428482)    |   S    |    2024.5    |
-|   [SKY12 夏之晨](https://www.luogu.com.cn/problem/U429841)   |   Z    |    2024.5    |
-|    [SKY13 雪祭](https://www.luogu.com.cn/problem/U433638)    |   S    |    2024.5    |
-|    [SKY14 无题](https://www.luogu.com.cn/problem/U441411)    |   Z    |    2024.6    |
-|    [SKY15 星辰](https://www.luogu.com.cn/problem/U443804)    |   S    |    2024.6    |
-| [SKY16 凋零的蓬莱之雨](https://www.luogu.com.cn/problem/U454760) |   Z    |    2024.7    |
-|  [SKY17 玉笛飞声](https://www.luogu.com.cn/problem/U453763)  |   L    |    2024.7    |
-|   [SKY18 数据湖](https://www.luogu.com.cn/problem/U479744)   |   Z    |    2024.9    |
-|    [SKY19 夜幕](https://www.luogu.com.cn/problem/U455183)    |   S    |    2024.7    |
-|                            SKY20                             | 不存在 |    不存在    |
-| [SKY21 崩坏：MuseScore](https://www.luogu.com.cn/problem/U455407) |  F&S   |    2024.7    |
-| [SKY22 何人信仰之物](https://www.luogu.com.cn/problem/U475527) |   Z    |    2024.9    |
-| [SKY221 何人信仰之物另一版本（无可下载文件）](https://www.luogu.com.cn/problem/U508857) |   Z    |   2024.11    |
-|    [SKY23 云景](https://www.luogu.com.cn/problem/U493832)    |  L&S   |   2024.10    |
-|  [SKY24 神代铸风](https://www.luogu.com.cn/problem/U489321)  |   Z    |   2024.10    |
-|    [SKY25 惜暮](https://www.luogu.com.cn/problem/U515491)    |   S    |   2024.12    |
-|  [SKY26 寒山秋韵](https://www.luogu.com.cn/problem/U491531)  |   Z    |   2024.10    |
-| [SKY27 Turn Dreams (Long Ver.)](https://www.luogu.com.cn/problem/U505897) |   S    |   2024.11    |
-| [SKY28 交融的理与情 ～The Moment of Decision](https://www.luogu.com.cn/problem/U511379) |   Z    |   2024.12    |
-|                            SKY29                             |   /    |      /       |
-|                         SKY30 喝水颂                         |   /    |      /       |
-|                            SKY31                             |   /    |      /       |
-| [SKY32 飞向未知之刻 ～Unknown adventure](https://www.luogu.com.cn/problem/U503628) |   Z    |   2024.11    |
-|                            SKY33                             |   /    |      /       |
-| [SKY34 疾风吹叶 ～fly in the forest](https://www.luogu.com.cn/problem/U513322) |   Z    |   2024.12    |
-|     [SKY35 Π](https://www.luogu.com.cn/problem/U513208)      |   S    |   2024.12    |
-| [SKY36 电光游动之瀑 ～What's the Technology](https://www.luogu.com.cn/problem/U518008) |   Z    |   2024.12    |
+| 曲目编号及名称 | 作者 | 创作时间 |
+| :----------: | :----------: | :----------: |
+| [SKY01 逆天(重置版)](https://www.luogu.com.cn/problem/U321043) | S | 2023.8或更早 |
+| [SKY012 ttq012的主题曲](https://www.luogu.com.cn/problem/U429283) | Z | 2024.5 |
+| SKY02 已删除 | Z  | 2024.1 |
+| [SKY03 周年纪念曲（CXcore Mix）](https://www.luogu.com.cn/problem/U409395) | S | 2024.2 |
+| SKY04 已删除 | Z | 2024.2 |
+| [SKY05 Sky Dream](https://www.luogu.com.cn/problem/U417649) | S | 2024.3 |
+| [SKY06 长江之歌arrange](https://www.luogu.com.cn/problem/U416106) | Z | 2024.3 |
+| [SKY07 Turn Dreams（转动梦想）](https://www.luogu.com.cn/problem/U477503) | S | 2024.9 |
+| [SKY08 碧湖夜行 ～ Lake Night](https://www.luogu.com.cn/problem/U419781) | Z | 2024.4 |
+| [SKY09 繁花烟雨~Flowers and Rain~（CXcore Mix）](https://www.luogu.com.cn/problem/U425357) | S | 2024.4 |
+| [SKY10 春夏之接](https://www.luogu.com.cn/problem/U424381) | Z | 2024.4 |
+| [SKY11 地理](https://www.luogu.com.cn/problem/U428482) | S | 2024.5 |
+| [SKY12 夏之晨](https://www.luogu.com.cn/problem/U429841) | Z | 2024.5 |
+| [SKY13 雪祭](https://www.luogu.com.cn/problem/U433638) | S | 2024.5 |
+| [SKY14 无题](https://www.luogu.com.cn/problem/U441411) | Z | 2024.6 |
+| [SKY15 星辰](https://www.luogu.com.cn/problem/U443804) | S | 2024.6 |
+| [SKY16 凋零的蓬莱之雨](https://www.luogu.com.cn/problem/U454760) | Z | 2024.7 |
+| [SKY17 玉笛飞声](https://www.luogu.com.cn/problem/U453763) | L | 2024.7 |
+| [SKY18 数据湖](https://www.luogu.com.cn/problem/U479744) | Z | 2024.9 |
+| [SKY19 夜幕](https://www.luogu.com.cn/problem/U455183) | S | 2024.7 |
+| SKY20 | 不存在 | 不存在 |
+| [SKY21 崩坏：MuseScore](https://www.luogu.com.cn/problem/U455407) | F&S | 2024.7 |
+| [SKY22 何人信仰之物](https://www.luogu.com.cn/problem/U475527) | Z | 2024.9 |
+| [SKY221 何人信仰之物另一版本（无可下载文件）](https://www.luogu.com.cn/problem/U508857) | Z | 2024.11 |
+| [SKY23 云景](https://www.luogu.com.cn/problem/U493832) | L&S | 2024.10 |
+| [SKY24 神代铸风](https://www.luogu.com.cn/problem/U489321) | Z | 2024.10 |
+| [SKY25 惜暮](https://www.luogu.com.cn/problem/U515491) | S | 2024.12 |
+| [SKY26 寒山秋韵](https://www.luogu.com.cn/problem/U491531) | Z | 2024.10 |
+| [SKY27 Turn Dreams (Long Ver.)](https://www.luogu.com.cn/problem/U505897) | S | 2024.11 |
+| [SKY28 交融的理与情 ～The Moment of Decision](https://www.luogu.com.cn/problem/U511379) | Z | 2024.12 |
+| [SKY29 雨中等最后一班公交车的 yhb](https://www.luogu.com.cn/problem/U526038) | S | 2025.1 |
+| SKY30 喝水颂 | / | / |
+| [SKY31 落暮之殇](https://www.luogu.com.cn/problem/U525993) | Y | 2025.1 |
+| [SKY32 飞向未知之刻 ～Unknown adventure](https://www.luogu.com.cn/problem/U503628) | Z | 2024.11 |
+| [SKY33 不夜城](https://www.luogu.com.cn/problem/U526049) | Q | 2025.1 |
+| [SKY34 疾风吹叶 ～fly in the forest](https://www.luogu.com.cn/problem/U513322) | Z | 2024.12 |
+| [SKY35 Π](https://www.luogu.com.cn/problem/U513208) | S | 2024.12 |
+| [SKY36 电光游动之瀑 ～What's the Technology](https://www.luogu.com.cn/problem/U518008) | Z | 2024.12 |
 
 #### Sea 系列一览表
 
