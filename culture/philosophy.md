@@ -9,13 +9,13 @@
 yhb 说要有无量大鸡森常数，于是牢政定义了新的集。
 
 故事要从2024年11月说起。一节体育课上，yhb提到了无量大鸡森常数，于是牢政等人开始讨论无量大鸡森常数的大小。最终，无量大鸡森常数用这幅图片上的表达式表达：
-![](https://cdn.luogu.com.cn/upload/image_hosting/gbb42m8p.png)]
+![](https://cdn.luogu.com.cn/upload/image_hosting/gbb42m8p.png)
 
 #### 灵感来源二
 
 牢政在2024年7月30日晚22时许入坑了《原神》，并且被其中的复杂的地图深深的吸引了，于是打算自己设定一个世界。最终，牢政创造了现在的里世界，并多次改版。第一版地图如下：
-!()[https://cdn.luogu.com.cn/upload/image_hosting/o7i2qsjh.png]
+![](https://cdn.luogu.com.cn/upload/image_hosting/o7i2qsjh.png)
 
 ### 参考资料
 
-(政学文化)[https://ssfz202601.wikidot.com/zheng-xue-culture]
+[政学文化](https://ssfz202601.wikidot.com/zheng-xue-culture)
