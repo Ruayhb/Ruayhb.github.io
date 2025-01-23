@@ -11,6 +11,8 @@
 
 #### [鸡森数学](https://ssfz202601.github.io/culture/math)
 
+#### [政论](https://ssfz202601.github.io/culture/philosophy)
+
 #### [鸡森社会学](https://ssfz202601.github.io/404)
 
 #### [鸡森艺术学](https://ssfz202601.github.io/404)
