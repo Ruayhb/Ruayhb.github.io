@@ -34,15 +34,15 @@ _____
 
 注：这些曲子大多发表在洛谷，在此感谢来自 ztk 的资料。
 
-SKY 专辑，全称为 sky^-x 系列曲目，是由 [SJH_qwq](https://www.luogu.com.cn/user/761125) 与 [ztksc07](https://www.luogu.com.cn/user/711859) 共同制作的原创曲专辑，以下 SJH 简称 S，ztksc07 简称 Z。
+SKY系列，全称为 sky^{-x} 系列曲目，是由 [SJH_qwq（现更名 Milthm）](https://www.luogu.com.cn/user/761125) 创始、[ztksc07](https://www.luogu.com.cn/user/711859) 发起，后有多位创作者加入共同制作的原创曲系列，以下 SJH 简称 S，ztksc07 简称 Z。
 
-2024.7：新增制作人 [science94](https://www.luogu.com.cn/user/1099083)，以下简称 L。
+2024.7：新增创作者 [science94](https://www.luogu.com.cn/user/1099083)，以下简称 L。
 
-2024.7：新增制作人 [Double_Light](https://www.luogu.com.cn/user/761137)，以下简称 F。
+2024.7：新增创作者 [Double_Light](https://www.luogu.com.cn/user/761137)，以下简称 F。
 
-2025.1：新增制作人 [Priestess_SLG](https://www.luogu.com.cn/user/1254235)（注意：此账号目前为多人公有），以下简称 Y。
+2025.1：新增创作者 [Priestess_SLG](https://www.luogu.com.cn/user/1254235)（注意：此账号目前为多人公有，这里指原实名认证者），以下简称 Y。
 
-2025.1：新增制作人 [abdq1011_qhm](https://www.luogu.com.cn/user/1263859)，以下简称 Q。
+2025.1：新增创作者 [abdq1011_qhm](https://www.luogu.com.cn/user/1263859)，以下简称 Q。
 
 | 曲目编号及名称 | 作者 | 创作时间 |
 | :----------: | :----------: | :----------: |
@@ -60,6 +60,7 @@ SKY 专辑，全称为 sky^-x 系列曲目，是由 [SJH_qwq](https://www.luogu.
 | [SKY11 地理](https://www.luogu.com.cn/problem/U428482) | S | 2024.5 |
 | [SKY12 夏之晨](https://www.luogu.com.cn/problem/U429841) | Z | 2024.5 |
 | [SKY13 雪祭](https://www.luogu.com.cn/problem/U433638) | S | 2024.5 |
+| [SKY13.20250129 雪祭（SpeedCXcore Mix）](https://www.luogu.com.cn/problem/U530154) | S | 2025.1 |
 | [SKY14 无题](https://www.luogu.com.cn/problem/U441411) | Z | 2024.6 |
 | [SKY15 星辰](https://www.luogu.com.cn/problem/U443804) | S | 2024.6 |
 | [SKY16 凋零的蓬莱之雨](https://www.luogu.com.cn/problem/U454760) | Z | 2024.7 |
