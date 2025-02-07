@@ -34,7 +34,7 @@ _____
 
 注：这些曲子大多发表在洛谷，在此感谢来自 ztk 的资料。
 
-SKY系列，全称为 sky^{-x} 系列曲目，是由 [SJH_qwq（现更名 Milthm）](https://www.luogu.com.cn/user/761125) 创始、[ztksc07](https://www.luogu.com.cn/user/711859) 发起，后有多位创作者加入共同制作的原创曲系列，以下 SJH 简称 S，ztksc07 简称 Z。
+SKY系列，全称为 sky^-x 系列曲目，是由 [SJH_qwq（现更名 Milthm）](https://www.luogu.com.cn/user/761125) 创始、[ztksc07](https://www.luogu.com.cn/user/711859) 发起，后有多位创作者加入共同制作的原创曲系列，以下 SJH 简称 S，ztksc07 简称 Z。
 
 2024.7：新增创作者 [science94](https://www.luogu.com.cn/user/1099083)，以下简称 L。
 
@@ -86,6 +86,16 @@ SKY系列，全称为 sky^{-x} 系列曲目，是由 [SJH_qwq（现更名 Milthm
 | [SKY35 Π](https://www.luogu.com.cn/problem/U513208) | S | 2024.12 |
 | [SKY36 电光游动之瀑 ～What's the Technology](https://www.luogu.com.cn/problem/U518008) | Z | 2024.12 |
 
+#### SKY系列衍生内容
+
+[sky^13 雪祭 填词 by Priestess_SLG](https://www.luogu.com.cn/paste/qcb9b5vk)
+
+[sky^-5 c++播放器 by science94](https://www.luogu.com.cn/problem/U530777)
+
+[SJH 风格作曲指南 by ztksc07](https://www.luogu.com.cn/paste/olvizgrl)
+
+[2024 Sky 之最评选活动 by SJH](https://www.luogu.com/paste/vtc1hpbc)
+
 #### Sea 系列一览表
 
 等待 czn 给我一个带有全链接的表格，这里先放个洛谷链接：[link](https://www.luogu.com/article/aqbnquu1)。
@@ -115,3 +125,7 @@ SKY系列，全称为 sky^{-x} 系列曲目，是由 [SJH_qwq（现更名 Milthm
 - [大骁](https://www.luogu.com/article/npaw1tap)
 
 - [Sand Lky](https://www.luogu.com.cn/problem/U521392)
+
+- [班级未归类填词作品（由 ztk 不完全整理）](https://www.luogu.com.cn/paste/a3icx0vi)
+
+- [c++ 音乐作品（由 ztk 整理）](https://www.luogu.com.cn/paste/bkf3ybgj)
