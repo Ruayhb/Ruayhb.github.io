@@ -34,15 +34,15 @@ _____
 
 注：这些曲子大多发表在洛谷，在此感谢来自 ztk 的资料。
 
-SKY 专辑，全称为 sky^-x 系列曲目，是由 [SJH_qwq](https://www.luogu.com.cn/user/761125) 与 [ztksc07](https://www.luogu.com.cn/user/711859) 共同制作的原创曲专辑，以下 SJH 简称 S，ztksc07 简称 Z。
+SKY系列，全称为 sky^-x 系列曲目，是由 [SJH_qwq（现更名 Milthm）](https://www.luogu.com.cn/user/761125) 创始、[ztksc07](https://www.luogu.com.cn/user/711859) 发起，后有多位创作者加入共同制作的原创曲系列，以下 SJH 简称 S，ztksc07 简称 Z。
 
-2024.7：新增制作人 [science94](https://www.luogu.com.cn/user/1099083)，以下简称 L。
+2024.7：新增创作者 [science94](https://www.luogu.com.cn/user/1099083)，以下简称 L。
 
-2024.7：新增制作人 [Double_Light](https://www.luogu.com.cn/user/761137)，以下简称 F。
+2024.7：新增创作者 [Double_Light](https://www.luogu.com.cn/user/761137)，以下简称 F。
 
-2025.1：新增制作人 [Priestess_SLG](https://www.luogu.com.cn/user/1254235)（注意：此账号目前为多人公有），以下简称 Y。
+2025.1：新增创作者 [Priestess_SLG](https://www.luogu.com.cn/user/1254235)（注意：此账号目前为多人公有，这里指原实名认证者），以下简称 Y。
 
-2025.1：新增制作人 [abdq1011_qhm](https://www.luogu.com.cn/user/1263859)，以下简称 Q。
+2025.1：新增创作者 [abdq1011_qhm](https://www.luogu.com.cn/user/1263859)，以下简称 Q。
 
 | 曲目编号及名称 | 作者 | 创作时间 |
 | :----------: | :----------: | :----------: |
@@ -60,6 +60,7 @@ SKY 专辑，全称为 sky^-x 系列曲目，是由 [SJH_qwq](https://www.luogu.
 | [SKY11 地理](https://www.luogu.com.cn/problem/U428482) | S | 2024.5 |
 | [SKY12 夏之晨](https://www.luogu.com.cn/problem/U429841) | Z | 2024.5 |
 | [SKY13 雪祭](https://www.luogu.com.cn/problem/U433638) | S | 2024.5 |
+| [SKY13.20250129 雪祭（SpeedCXcore Mix）](https://www.luogu.com.cn/problem/U530154) | S | 2025.1 |
 | [SKY14 无题](https://www.luogu.com.cn/problem/U441411) | Z | 2024.6 |
 | [SKY15 星辰](https://www.luogu.com.cn/problem/U443804) | S | 2024.6 |
 | [SKY16 凋零的蓬莱之雨](https://www.luogu.com.cn/problem/U454760) | Z | 2024.7 |
@@ -85,9 +86,45 @@ SKY 专辑，全称为 sky^-x 系列曲目，是由 [SJH_qwq](https://www.luogu.
 | [SKY35 Π](https://www.luogu.com.cn/problem/U513208) | S | 2024.12 |
 | [SKY36 电光游动之瀑 ～What's the Technology](https://www.luogu.com.cn/problem/U518008) | Z | 2024.12 |
 
+#### SKY系列衍生内容
+
+[sky^13 雪祭 填词 by Priestess_SLG](https://www.luogu.com.cn/paste/qcb9b5vk)
+
+[sky^-5 c++播放器 by science94](https://www.luogu.com.cn/problem/U530777)
+
+[SJH 风格作曲指南 by ztksc07](https://www.luogu.com.cn/paste/olvizgrl)
+
+[2024 Sky 之最评选活动 by SJH](https://www.luogu.com/paste/vtc1hpbc)
+
 #### Sea 系列一览表
 
-等待 czn 给我一个带有全链接的表格，这里先放个洛谷链接：[link](https://www.luogu.com/article/aqbnquu1)。
+sea专辑，是CZN的改编填词作品合集。
+
+| 曲目编号及名称 | 创作时间 |
+| :----------: | :----------: |
+| [sea^-1 赤骁(Red Xiao)](http://www.luogu.com.cn/article/dusyc6pa)| 2024.4 |
+| [sea^-2 YJS之歌(The Song of YJS)](http://www.luogu.com.cn/article/1fmkfgpo)| 2024.4 |
+| sea^-3 已删除| 2024.5 |
+| [sea^-4 散步了(Took a Walk)](http://www.luogu.com.cn/article/gl1eke7c)| 2024.5 |
+| sea^-5 已删除| 2024.5 |
+| [sea^-6 403教室(Room 403) ](http://www.luogu.com.cn/article/pdfjqpyc)| 2024.5 |
+| [sea^-7 周记(Weekly Diary)](http://www.luogu.com.cn/article/2yszxvbc)| 2024.5 |
+| [sea^-8 踏万委(Ta Wan Committee)](http://www.luogu.com.cn/article/5pzbjhu9)| 2024.5 |
+| [sea^-9 抽象叹(Abstract sigh)](http://www.luogu.com.cn/article/11648b8u)| 2024.6 |
+| [sea^-10 下风(Downwind)](http://www.luogu.com.cn/article/u7h1fg94)| 2024.6 |
+| [sea^-11 祭司戏(Priestress Play)](http://www.luogu.com.cn/article/utb93vt1)| 2024.6 |
+| [sea^-12 大骁笔记.首年一班(Daxiao's Note:The First Year of Class 1)](http://www.luogu.com.cn/article/q8otdndr)| 2024.6 |
+| [sea^-13 政(Zheng)](http://www.luogu.com.cn/article/n3illo5s)| 2024.6 |
+| [sea^-14 不谓山(Not Called a Mountain)](http://www.luogu.com.cn/article/uxfnj55w)| 2024.7 |
+| [sea^-15 一班行(Class 1)](http://www.luogu.com.cn/article/rvaimt64)| 2024.9 |
+| [sea^-16 探月(Probe the Moon)](http://www.luogu.com.cn/article/ho8iunyg)| 2024.9 |
+| [sea^-17 可爱班花(Cute Class Flower)](http://www.luogu.com.cn/article/hul9f24y)| 2024.9 |
+| [sea^-18 耍把戏（一班版）(Playing Tricks:Class 1 Version)](http://www.luogu.com.cn/article/dvyzs70f)| 2024.10 |
+| [sea^-19 ZTK(ZTK)](http://www.luogu.com.cn/article/93cuyf88)| 2024.11|
+| [sea^-20 二班抄(Class 2 Copying)](http://www.luogu.com.cn/article/fwtvacav)| 2024.11 |
+| [sea^-21 巡mei(Patrol Mei)](http://www.luogu.com.cn/article/npcm8td7)| 2024.12 |
+| [sea^-22 游电恋(Youdian Love)](http://www.luogu.com.cn/article/gg82emkz)| 2024.12 |
+| [sea^-23 凌云愿(The Wish to Ascend to the Cloud)](https://www.luogu.com.cn/article/5llhofzd)| 2025.1 |
 
 #### Land 系列一览表
 
@@ -114,3 +151,7 @@ SKY 专辑，全称为 sky^-x 系列曲目，是由 [SJH_qwq](https://www.luogu.
 - [大骁](https://www.luogu.com/article/npaw1tap)
 
 - [Sand Lky](https://www.luogu.com.cn/problem/U521392)
+
+- [班级未归类填词作品（由 ztk 不完全整理）](https://www.luogu.com.cn/paste/a3icx0vi)
+
+- [c++ 音乐作品（由 ztk 整理）](https://www.luogu.com.cn/paste/bkf3ybgj)
